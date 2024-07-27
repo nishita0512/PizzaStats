@@ -1,0 +1,1 @@
+Select * from pizza_sales.pizza_types;
